@@ -1,2 +1,3 @@
 # selenium
-System.setProperty("webdriver.gecko.driver",path);
+//System.setProperty("webdriver.gecko.driver",path);
+framework and some jav file saved
